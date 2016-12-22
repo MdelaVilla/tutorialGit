@@ -1,4 +1,4 @@
-Este es un fichro de ejemplo para el tutorial de Git
+Este es un fichero de ejemplo para el tutorial de Git
 Esto es otro ejemplo
 1
 2
