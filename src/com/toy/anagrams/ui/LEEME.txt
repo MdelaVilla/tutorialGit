@@ -1,0 +1,2 @@
+Este es un fichro de ejemplo para el tutorial de Git
+Esto es otro ejemplo
